@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  hu.gerviba.authsch2springbootstarter.AuthschConfig,\
+  hu.gerviba.authsch2springbootstarter.AuthschAuthorisationExtractor
